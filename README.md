@@ -4,10 +4,7 @@
 **I'm from France and work for the company [DevCav](https://devcav.fr) at the moment**
 
 # Stats
-<details>
-    <summary>Stats</summary>
-  <img align="left" alt="Cobbrou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ex0D&show_icons=true&hide_border=true" />
-</details>
+<img align="center" alt="Ex0D's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ex0D&show_icons=true&hide_border=true" />
 
 ### Languages & tools used
 <img align="left" alt="Node.js" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-dot-js.svg" />
