@@ -9,7 +9,7 @@
   <img align="left" alt="Cobbrou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ex0D&show_icons=true&hide_border=true" />
 </details>
 
-### Languages & tools used :
+### Languages & tools used
 <img align="left" alt="HTML5" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
