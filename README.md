@@ -10,8 +10,7 @@
 </details>
 
 ### Languages & tools used
-<img align="left" alt="HTML5" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-dot-js.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" />
