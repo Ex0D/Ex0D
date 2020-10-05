@@ -8,7 +8,7 @@
 
 ### Languages & tools used
 <img align="left" alt="Node.js" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-dot-js.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
+<img align="left" alt="C#" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
