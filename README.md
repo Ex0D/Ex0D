@@ -8,9 +8,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ex_0de?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fex_0de&screen_name=ex_0de)
 
 # Stats
-<img align="left" alt="Ex0D's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ex0D&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
+<img align="left" alt="Ex0D's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ex0D&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0D&layout=compact&langs_count=7)](https://github.com/Ex0D)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0D&layout=compact&langs_count=7&theme=radical)](https://github.com/Ex0D)
 
 ### Tools used
 <img align="left" alt="Node.js" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-dot-js.svg" />
