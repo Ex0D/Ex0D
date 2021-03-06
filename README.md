@@ -5,7 +5,6 @@
 <br />
 <br />
 [![Website](https://img.shields.io/website?label=devcav.fr&style=for-the-badge&url=https%3A%2F%2Fdevcav.fr)](https://devcav.fr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ex_0de?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fex_0de&screen_name=ex_0de)
 
 # Stats
 <img align="left" alt="Ex0D's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ex0D&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues&theme=radical" />
