@@ -1,3 +1,2 @@
-<img align="right" src="logo.png">
-
-![Metrics](![Metrics](https://metrics.lecoq.io/Ex0D?template=classic&languages=1&isocalendar=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FParis))
+<img align="center" src="logo.png">
+Waiting for my own profile view...
