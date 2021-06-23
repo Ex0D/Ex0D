@@ -19,5 +19,7 @@
 <br />
 
 ## 📈 Stats & 🏅 Top Langs
-![Stats](https://github-readme-stats.vercel.app/api?username=Ex0D&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues)
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0D&langs_count=7&theme=radical)](https://github.com/Ex0D)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ex0D&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ex0D&layout=compact&langs_count=7&theme=radical"/>
+</div>
