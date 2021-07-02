@@ -1,6 +1,6 @@
 # ✨ My Profile
 
-<img align="right" src="logo.png">
+<img align="right" src="assets/logo.png">
 
 **I'm from France and work for [DevCav](https://devcav.fr) at the moment**
 
