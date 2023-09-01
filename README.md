@@ -24,7 +24,7 @@ const aboutMe =
 }
 ```
 
-<!-- Soon...
+<!-- Waiting unflag...
 </br></br>
 
 <div>
