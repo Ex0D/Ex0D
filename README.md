@@ -5,7 +5,7 @@ const aboutMe =
 {
     pronouns: "he" | "him",
     languages: ["Javascript", "Typescript", "Python", "C"],
-    technologies: 
+    technologies:
     {
         backEnd: 
         {
