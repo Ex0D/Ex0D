@@ -1,7 +1,7 @@
 <h1 align="center">ex_ode 🌀</h1>
 
 ```js
-const aboutMe = 
+const aboutMe =
 {
     pronouns: "he" | "him",
     languages: ["Javascript", "Typescript", "Python", "C"],
