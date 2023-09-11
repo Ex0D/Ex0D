@@ -22,9 +22,7 @@ const aboutMe =
     hireable: true,
     occupation: "Technology monitoring 📚"
 }
-```
-
-<!-- Welcome back
+<-- malad.
 </br></br>
 
 <div>
