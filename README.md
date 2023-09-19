@@ -22,7 +22,7 @@ const aboutMe =
     hireable: true,
     occupation: "Technology monitoring 📚"
 }
-<-- 1
+<-- ...
 </br></br>
 
 <div>
