@@ -22,11 +22,4 @@ const aboutMe =
     hireable: true,
     occupation: "Technology monitoring 📚"
 }
-<-- ...
-</br></br>
-
-<div>
-    <img height="150em" id="ex0" src="https://readme-stats-ex0d.vercel.app/api?username=Ex0D&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs" />
-    <img height="150em" id="ex1" align="right" src="https://readme-stats-ex0d.vercel.app/api/top-langs/?username=Ex0D&layout=compact&langs_count=7&theme=radical"/>
-</div>
--->
+```
