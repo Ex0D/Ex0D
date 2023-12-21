@@ -22,7 +22,7 @@ const about = {
 
 ***
 
-<h2>Some stats of my Github :</h2>
+<h3>Some stats of my Github :</h3>
 <a href="https://github.com/Ex0D">
     <img height="200" align="center" src="https://github-readme.lexod.fr/stats?username=Ex0D&show_icons=true&theme=radical&hide_contribs=true&count_private=true&hide_border=true" />
 </a>
