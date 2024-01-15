@@ -11,7 +11,7 @@ const about = {
             tests: ["Cypress", "Playwright"]
         },
         databases: ["mySQL", "mongoDB", "redis"],
-        devops: ["Bash", "Docker", "Nginx"]
+        devops: ["Bash", "Docker", "Nginx", "Powershell"]
     },
     tools: ["VSC", "VS2022", "Git", "pnpm"],
     OS: ["Windows 10 (with playbook and AME Wizard)", "Debian"],
