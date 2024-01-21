@@ -1,4 +1,4 @@
-<h1 align="center">ex_ode 🇫🇷 | Backend Dev /Devops 💻</h1>
+<h1 align="center">ex_ode 🇫🇷 | Backend Dev / Devops 💻</h1>
 
 ```js
 const about = {
@@ -16,7 +16,7 @@ const about = {
     tools: ["VSC", "VS2022", "Git", "pnpm"],
     OS: ["Windows 10 (with playbook and AME Wizard)", "Debian"],
     hireable: true,
-    occupation: "Technology monitoring 📚"
+    occupation: "In transition... 👀"
 }
 ```
 
