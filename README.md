@@ -3,7 +3,7 @@
 ```js
 const about = {
     pronouns: "he" | "him",
-    languages: ["JS", "TS", "C", "C++"],
+    languages: ["JS", "TS"],
     technologies: {
         backEnd: {
             ts: ["Bun", "ts-node"],
