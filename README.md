@@ -16,7 +16,7 @@ const about = {
     tools: ["VSC", "VS2022", "Git", "pnpm"],
     OS: ["Windows 10 (with playbook and AME Wizard)", "Debian"],
     hireable: true,
-    occupation: "In transition... 👀"
+    occupation: "Learning... 👀"
 }
 ```
 
