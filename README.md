@@ -1,4 +1,4 @@
-<h1 align="center">ex_ode 🇫🇷 | Backend Dev</h1>
+<h1 align="center">ex_ode 🇫🇷 | Backend Dev 💻</h1>
 
 ```js
 const about = {
