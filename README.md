@@ -1,22 +1,22 @@
-<h1 align="center">ex_ode 🇫🇷 | Backend Dev 💻</h1>
+<h1 align="center">ex_ode 🇫🇷 | DevOps 💻</h1>
 
 ```js
 const about = {
     pronouns: "he" | "him",
-    languages: ["JS", "TS"],
+    languages: ["JS", "TS", "Python"],
     technologies: {
         backEnd: {
             ts: ["Bun", "ts-node"],
             js: ["NodeJS", "Express", "ws", "Fastify", "Puppeteer", "tmi.js"],
-            tests: ["Cypress", "Playwright"]
+            python: ["Django"]
         },
         databases: ["mySQL", "mongoDB", "redis"],
-        devops: ["Bash", "Docker", "Nginx", "Powershell"]
+        devops: ["Bash", "Docker", "Nginx"]
     },
-    tools: ["VSC", "VS2022", "Git", "pnpm"],
+    tools: ["Visual Studio Code", "Git", "pnpm", "Bitwise SSH"],
     OS: ["Windows 10 (with playbook and AME Wizard)", "Debian"],
-    hireable: true,
-    occupation: "Learning... 👀"
+    occupation: "Learning 👀",
+    hireable: true
 }
 ```
 
