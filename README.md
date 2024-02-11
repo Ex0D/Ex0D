@@ -7,7 +7,7 @@ const about = {
     technologies: {
         backEnd: {
             ts: ["Bun", "ts-node"],
-            js: ["NodeJS", "Express", "ws", "Fastify", "Puppeteer", "tmi.js"],
+            js: ["NodeJS", "Express", "ws", "Fastify", "Puppeteer", "tmi.js", "discord.js"],
             python: ["Django"],
             "C++": ["JUCE"]
         },
