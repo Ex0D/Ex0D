@@ -3,14 +3,15 @@
 ```js
 const about = {
     pronouns: "he" | "him",
-    languages: ["JS", "TS", "Python"],
+    languages: ["JS", "TS", "Python", "C++"],
     technologies: {
         backEnd: {
             ts: ["Bun", "ts-node"],
             js: ["NodeJS", "Express", "ws", "Fastify", "Puppeteer", "tmi.js"],
-            python: ["Django"]
+            python: ["Django"],
+            "C++": ["JUCE"]
         },
-        databases: ["mySQL", "mongoDB", "redis"],
+        databases: ["mySQL", "mongoDB"],
         devops: ["Bash", "Docker", "Nginx"]
     },
     tools: ["Visual Studio Code", "Git", "pnpm", "Bitwise SSH"],
