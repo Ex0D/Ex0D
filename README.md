@@ -5,12 +5,10 @@ const about = {
     pronouns: "he" | "him",
     languages: ["JS", "TS", "Python", "C++"],
     technologies: {
-        backEnd: {
-            ts: ["Bun", "ts-node"],
-            js: ["NodeJS", "Express", "ws", "Fastify", "Puppeteer", "tmi.js", "discord.js"],
-            python: ["Django"],
-            "C++": ["JUCE"]
-        },
+        js: ["NodeJS", "Express", "ws", "Fastify", "Puppeteer", "tmi.js", "discord.js"],
+        ts: ["Bun", "ts-node"],
+        python: ["Django"],
+        "C++": ["JUCE"],
         databases: ["mySQL", "mongoDB"],
         devops: ["Bash", "Docker", "Nginx"]
     },
