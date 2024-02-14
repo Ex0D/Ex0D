@@ -15,7 +15,7 @@ const about = {
     tools: ["Visual Studio Code", "Git", "pnpm", "Bitwise SSH"],
     OS: ["Windows 10 (with playbook and AME Wizard)", "Debian"],
     occupation: "Learning 👀",
-    hireable: true
+    hireable: false
 }
 ```
 
