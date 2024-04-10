@@ -7,7 +7,7 @@ const about = {
     technologies: {
         js: ["NodeJS", "Express", "ws", "Fastify", "Puppeteer", "tmi.js", "discord.js"],
         ts: ["Bun", "ts-node"],
-        python: ["Django"],
+        python: ["Django", "Flask"],
         "C++": ["JUCE"],
         databases: ["mySQL", "mongoDB"],
         devops: ["Bash", "Docker", "Nginx"]
