@@ -1,4 +1,4 @@
-<h1 align="center">ex_ode 🇫🇷 | DevOps 💻</h1>
+<h1 align="center">ex_ode 🇫🇷</h1>
 
 ```js
 const about = {
@@ -13,8 +13,8 @@ const about = {
         devops: ["Bash", "Docker", "Nginx"]
     },
     tools: ["Visual Studio Code", "Git", "pnpm", "Bitwise SSH"],
-    OS: ["Windows 10 (with playbook and AME Wizard)", "Debian"],
-    occupation: "Working..",
+    OS: ["Windows 10 (with playbook and AME Wizard)", "Debian", "Ubuntu"],
+    occupation: "Searching..",
     hireable: true
 }
 ```
