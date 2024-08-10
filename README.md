@@ -1,1 +1,1 @@
-<h1 align="center">ex_ode 🇫🇷 | Old NodeJS Dev</h1>
+<h3 align="center">ex_ode 🇫🇷 | Old NodeJS Dev</h3>
